@@ -11,4 +11,5 @@ def salary():
         bonus = float(input('Введите значение бонуса:  '))
     return time * rate + bonus
 
+
 print(salary())
